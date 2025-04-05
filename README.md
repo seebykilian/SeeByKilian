@@ -13,7 +13,7 @@
 
 🙋‍♂️ Hello, I’m **Kilian**, a **French software engineer** passionate about **development**, **visual creation**, and **innovation**.
 
-💻 Since **2019**, I’ve specialized in **software and back-end engineering** with strong expertise in **network infrastructure**, **server architecture**, and **DevOps**. My core stack includes **Python**, **JavaScript** (Node.js, TypeScript), **.NET/C#**, **PHP**, and **SQL**. I also have solid front-end foundations with **HTML**, **CSS**, **React**, and various UI libraries.
+💻 Since **2019**, I’ve specialized in **software and backend engineering** with strong expertise in **network infrastructure**, **server architecture**, and **DevOps**. My core stack includes **Python**, **JavaScript** (Node.js, TypeScript), **.NET/C#**, **PHP**, and **SQL**. I also have solid front-end foundations with **HTML**, **CSS**, **React**, and various UI libraries.
 
 🤖 I have a strong interest in **AI technologies** and regularly integrate **machine learning** and **automation features** into my projects, especially to enhance user experience or optimize back-end processes.
 
