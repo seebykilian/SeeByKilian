@@ -1,4 +1,4 @@
-## Hi there, more about me 👋
+## 👋 Hi there, more about me
 
 [![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
@@ -26,7 +26,7 @@
 
 👁️ Whether it’s crafting robust back-end systems, building intelligent tools, or capturing emotion through a lens, I bring the same energy: **precision**, **creativity**, and **relentless curiosity**.
 
-## Contribute and support me
+## 🙏🏻 Contribute and support me
 
 As a passionate creator, I’m always working to **improve my projects** and deliver **high-quality** solutions.  
 If you find them useful, here’s how you can **support** their growth:
