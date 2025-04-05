@@ -2,8 +2,8 @@
 
 [![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
-[![Competence](https://img.shields.io/badge/Node.js-grey?logo=node.js)]()
-[![Competence](https://img.shields.io/badge/TypeScript-grey?logo=typescript)]()
+[![Competence](https://img.shields.io/badge/Node.js-green?logo=node.js)]()
+[![Competence](https://img.shields.io/badge/TypeScript-green?logo=typescript)]()
 [![Competence](https://img.shields.io/badge/C%23-grey?logo=cplusplus)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
