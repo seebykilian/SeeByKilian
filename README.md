@@ -2,7 +2,7 @@
 
 [![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
-[![Competence](https://img.shields.io/badge/C%23-grey?logo=csharp)]()
+[![Competence](https://img.shields.io/badge/C%23-grey?logo=cplusplus)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css3)]()
