@@ -1,5 +1,6 @@
 ## Hi there, more about me 👋
 
+[![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
 [![Competence](https://img.shields.io/badge/C%23-grey?logo=csharp)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
