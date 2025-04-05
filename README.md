@@ -24,7 +24,7 @@
 
 🎭 Beyond code, I’m deeply passionate about **photography** and **video production**, especially in the **music scene**, where I’ve earned a privileged place through my creative work. At just **16**, I started working as a freelance developer, and I’m currently building a **full-featured SaaS platform** dedicated to modern customer support.
 
-👁️ Whether it’s crafting robust back-end systems, building intelligent tools, or capturing emotion through a lens, I bring the same energy: **precision**, **creativity**, and **relentless curiosity**.
+👁️ Whether it’s developing robust back-end systems, building intelligent tools, or capturing emotion through a lens, I bring the same energy: **precision**, **creativity**, and **relentless curiosity**.
 
 ## 🙌 Contribute and support me
 
