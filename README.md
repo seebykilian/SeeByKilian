@@ -5,7 +5,7 @@
 [![Competence](https://img.shields.io/badge/Node.js-grey?logo=node.js)]()
 [![Competence](https://img.shields.io/badge/TypeScript-grey?logo=typescript)]()
 [![Competence](https://img.shields.io/badge/C%23-grey?logo=cplusplus)]()
-[![Competence](https://img.shields.io/badge/.NET/C#-grey?logo=dotnet)]()
+[![Competence](https://img.shields.io/badge/.NET%2FC#-grey?logo=dotnet)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/MySQL-grey?logo=mysql)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
