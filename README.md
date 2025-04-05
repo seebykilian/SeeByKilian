@@ -2,9 +2,8 @@
 
 [![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
-[![Competence](https://img.shields.io/badge/Node.js-grey?logo=node.js)]()
 [![Competence](https://img.shields.io/badge/TypeScript-grey?logo=typescript)]()
-[![Competence](https://img.shields.io/badge/C%23-grey?logo=cplusplus)]()
+[![Competence](https://img.shields.io/badge/Node.js-grey?logo=node.js)]()
 [![Competence](https://img.shields.io/badge/.NET%2FC%23-grey?logo=dotnet)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/MySQL-grey?logo=mysql)]()
@@ -17,7 +16,7 @@
 
 🙋‍♂️ Hello, I’m **Kilian**, a **French software engineer** passionate about **development**, **visual creation**, and **innovation**.
 
-💻 Since **2019**, I’ve specialized in **software and backend engineering** with strong expertise in **network infrastructure**, **server architecture**, and **DevOps**. My core stack includes **Python**, **JavaScript** (Node.js, TypeScript), **.NET/C#**, **PHP**, and **SQL**. I also have solid front-end foundations with **HTML**, **CSS**, **React**, and various UI libraries.
+💻 Since **2019**, I’ve specialized in **software and backend engineering** with strong expertise in **network infrastructure**, **server architecture**, and **DevOps**. My core stack includes **Python**, **JavaScript** (TypeScript, Node.js), **.NET/C#**, **PHP**, and **SQL**. I also have solid front-end foundations with **HTML**, **CSS**, **React**, and various UI libraries.
 
 🤖 I have a strong interest in **AI technologies** and regularly integrate **machine learning** and **automation features** into my projects, especially to enhance user experience or optimize back-end processes.
 
