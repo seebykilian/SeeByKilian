@@ -26,16 +26,14 @@
 
 👁️ Whether it’s crafting robust back-end systems, building intelligent tools, or capturing emotion through a lens, I bring the same energy: **precision**, **creativity**, and **relentless curiosity**.
 
----
-
 ## Contribute and support me
 
-As a passionate creator, I’m always working to improve my projects and deliver high-quality solutions.  
-If you find them useful, here’s how you can support their growth:
+As a passionate creator, I’m always working to **improve my projects** and deliver **high-quality** solutions.  
+If you find them useful, here’s how you can **support** their growth:
 
-- **Share & suggest**: Your ideas matter! Feel free to suggest improvements or new features through issues or discussions. Sharing the projects also helps make them more accessible to others.
-- **Contribute code**: Developers are welcome! Open a pull request for improvements, features, or bug fixes. Your contributions are highly appreciated.
-- **Stay connected**: Follow me on [social networks](https://linktr.ee/SeeByKilian) to get updates on new projects, releases, and behind-the-scenes content.
-- **Support the work**: If you want to support financially, you can make a [donation](https://streamlabs.com/SeeByKilian/tip). Every contribution — big or small — helps me keep building.
+- **Share & suggest**: Your ideas matter! Feel free to suggest **improvements** or **new features** through issues or discussions. Sharing the projects also helps make them more accessible to others.
+- **Contribute code**: **Developers are welcome!** Open a pull request for **improvements**, **features**, or **bug fixes**. Your contributions are highly appreciated.
+- **Stay connected**: Follow me on [social networks](https://linktr.ee/SeeByKilian) to get updates on **new projects**, **releases**, and **behind-the-scenes content**.
+- **Support the work**: If you want to support financially, you can make a [donation](https://streamlabs.com/SeeByKilian/tip). Every contribution, big or small, helps me keep building.
 
 Thanks to everyone who supports my work. Every action, from a suggestion to a share, plays a part in pushing these projects forward and growing this creative journey.
