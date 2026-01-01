@@ -3,7 +3,7 @@
 [![Competence](https://img.shields.io/badge/Python-grey?logo=python)]()
 [![Competence](https://img.shields.io/badge/JavaScript-grey?logo=javascript)]()
 [![Competence](https://img.shields.io/badge/TypeScript-grey?logo=typescript)]() 
-[![Competence](https://img.shields.io/badge/TypeScript-grey?logo=go)]() 
+[![Competence](https://img.shields.io/badge/Go-grey?logo=go)]() 
 [![Competence](https://img.shields.io/badge/Node.js-grey?logo=node.js)]()
 [![Competence](https://img.shields.io/badge/.NET%2FC%23-grey?logo=dotnet)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
