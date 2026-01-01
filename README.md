@@ -8,6 +8,7 @@
 [![Competence](https://img.shields.io/badge/.NET%2FC%23-grey?logo=dotnet)]()
 [![Competence](https://img.shields.io/badge/PHP-grey?logo=php)]()
 [![Competence](https://img.shields.io/badge/MySQL-grey?logo=mysql)]()
+[![Competence](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql)]()
 [![Competence](https://img.shields.io/badge/HTML-grey?logo=html5)]()
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css)]()
 [![Competence](https://img.shields.io/badge/Docker-grey?logo=docker)]()
