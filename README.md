@@ -12,7 +12,6 @@
 [![Competence](https://img.shields.io/badge/CSS-grey?logo=css)]()
 [![Competence](https://img.shields.io/badge/Docker-grey?logo=docker)]()
 [![Competence](https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes)]()
-[![Competence](https://img.shields.io/badge/AWS-grey?logo=amazonwebservices)]()
 [![Competence](https://img.shields.io/badge/Linux-grey?logo=linux)]()
 
 🙋‍♂️ Hello, I’m **Kilian**, a **French software engineer** passionate about **development**, **visual creation**, and **innovation**.
